@@ -1,3 +1,5 @@
-# Arch RPi #
+# HAN-ESE-OPS-Arch-Rpi #
 
-Code for Arch Linux on the Raspberry Pi, in the context of the Final Assignment for HAN ESE OPS.
+Arch Linux Raspberry Pi stuff (Python, shell and system service) for the
+Operating Systems (OPS) course for Embedded-systems engineering (ESE) at the HAN
+University of Applied Sciences in Arnhem, the Netherlands.
