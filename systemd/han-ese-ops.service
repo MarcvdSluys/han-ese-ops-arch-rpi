@@ -7,8 +7,8 @@ Description=HAN OPS ESE service at boot/shutdown
 Before=shutdown.target
 
 [Service]
-ExecStart=/usr/bin/han-ese-ops_run-at-boot.sh &
-ExecStop=/usr/bin/han-ese-ops_run-at-shutdown.sh &
+ExecStart=/usr/bin/han-ese-ops_run-at-boot &
+ExecStop=/usr/bin/han-ese-ops_run-at-shutdown &
 RemainAfterExit=yes
 
 [Install]
